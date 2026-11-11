@@ -1,0 +1,17 @@
+C:\Users\grand\OneDrive\Desktop\CITC2311\CITC2311-PC1-Lab10\CITC2311-PC1-Lab10\bin\Debug\net10.0-windows\CITC2311-PC1-Lab10.exe
+C:\Users\grand\OneDrive\Desktop\CITC2311\CITC2311-PC1-Lab10\CITC2311-PC1-Lab10\bin\Debug\net10.0-windows\CITC2311-PC1-Lab10.deps.json
+C:\Users\grand\OneDrive\Desktop\CITC2311\CITC2311-PC1-Lab10\CITC2311-PC1-Lab10\bin\Debug\net10.0-windows\CITC2311-PC1-Lab10.runtimeconfig.json
+C:\Users\grand\OneDrive\Desktop\CITC2311\CITC2311-PC1-Lab10\CITC2311-PC1-Lab10\bin\Debug\net10.0-windows\CITC2311-PC1-Lab10.dll
+C:\Users\grand\OneDrive\Desktop\CITC2311\CITC2311-PC1-Lab10\CITC2311-PC1-Lab10\bin\Debug\net10.0-windows\CITC2311-PC1-Lab10.pdb
+C:\Users\grand\OneDrive\Desktop\CITC2311\CITC2311-PC1-Lab10\CITC2311-PC1-Lab10\obj\Debug\net10.0-windows\CITC2311_PC1_Lab10.Form1.resources
+C:\Users\grand\OneDrive\Desktop\CITC2311\CITC2311-PC1-Lab10\CITC2311-PC1-Lab10\obj\Debug\net10.0-windows\CITC2311-PC1-Lab10.csproj.GenerateResource.cache
+C:\Users\grand\OneDrive\Desktop\CITC2311\CITC2311-PC1-Lab10\CITC2311-PC1-Lab10\obj\Debug\net10.0-windows\CITC2311-PC1-Lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grand\OneDrive\Desktop\CITC2311\CITC2311-PC1-Lab10\CITC2311-PC1-Lab10\obj\Debug\net10.0-windows\CITC2311-PC1-Lab10.AssemblyInfoInputs.cache
+C:\Users\grand\OneDrive\Desktop\CITC2311\CITC2311-PC1-Lab10\CITC2311-PC1-Lab10\obj\Debug\net10.0-windows\CITC2311-PC1-Lab10.AssemblyInfo.cs
+C:\Users\grand\OneDrive\Desktop\CITC2311\CITC2311-PC1-Lab10\CITC2311-PC1-Lab10\obj\Debug\net10.0-windows\CITC2311-PC1-Lab10.csproj.CoreCompileInputs.cache
+C:\Users\grand\OneDrive\Desktop\CITC2311\CITC2311-PC1-Lab10\CITC2311-PC1-Lab10\obj\Debug\net10.0-windows\CITC2311-PC1-Lab10.dll
+C:\Users\grand\OneDrive\Desktop\CITC2311\CITC2311-PC1-Lab10\CITC2311-PC1-Lab10\obj\Debug\net10.0-windows\refint\CITC2311-PC1-Lab10.dll
+C:\Users\grand\OneDrive\Desktop\CITC2311\CITC2311-PC1-Lab10\CITC2311-PC1-Lab10\obj\Debug\net10.0-windows\CITC2311-PC1-Lab10.pdb
+C:\Users\grand\OneDrive\Desktop\CITC2311\CITC2311-PC1-Lab10\CITC2311-PC1-Lab10\obj\Debug\net10.0-windows\CITC2311-PC1-Lab10.genruntimeconfig.cache
+C:\Users\grand\OneDrive\Desktop\CITC2311\CITC2311-PC1-Lab10\CITC2311-PC1-Lab10\obj\Debug\net10.0-windows\ref\CITC2311-PC1-Lab10.dll
+C:\Users\grand\OneDrive\Desktop\CITC2311\CITC2311-PC1-Lab10\CITC2311-PC1-Lab10\obj\Debug\net10.0-windows\CITC2311.6AAA7865.Up2Date

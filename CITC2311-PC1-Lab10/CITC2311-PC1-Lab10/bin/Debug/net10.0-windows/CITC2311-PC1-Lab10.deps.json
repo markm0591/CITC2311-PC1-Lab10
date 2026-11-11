@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CITC2311-PC1-Lab10/1.0.0": {
+        "runtime": {
+          "CITC2311-PC1-Lab10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CITC2311-PC1-Lab10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
